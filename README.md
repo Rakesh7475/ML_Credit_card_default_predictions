@@ -1,7 +1,7 @@
 # ML_Credit_card_default_predictions
 Machine Learning Regression Project
 
-o setup CI/CD pipeline in heroku we need 3 information
+To setup CI/CD pipeline in heroku we need 3 information
 
 HEROKU_EMAIL = rakeshpatil7475@gmail.com
 HEROKU_API_KEY = <>
