@@ -1,3 +1,5 @@
+# Config is the output for the Component
+
 from collections import namedtuple
 
 

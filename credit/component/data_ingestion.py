@@ -27,9 +27,10 @@ class DataIngestion:
             #folder location to download file
             zip_download_dir = self.data_ingestion_config.zip_download_dir
             
-            # creating zip_download_dir
+            # creating zip_download_dir ,create this folder
             os.makedirs(zip_download_dir,exist_ok=True)
 
+            # extracting name of the file
             credit_file_name = os.path.basename(download_url)
             
             #creating zip file path
