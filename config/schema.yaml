@@ -59,3 +59,4 @@ numerical_columns:
  # Schema is the detail about you data
  # columns with the data types
  # we can create schema with code or manually
+ # basically schmea file is a structure, how many columns we have, how many rows
