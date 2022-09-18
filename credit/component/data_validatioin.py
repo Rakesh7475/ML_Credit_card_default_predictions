@@ -7,7 +7,7 @@ from credit.logger import logging
 from credit.exception import CreditException
 from credit.config.configuration import configuration
 from credit.constants import *
-from credit.util import read_yaml_file
+from credit.util.util import read_yaml_file
 from evidently.model_profile.sections import DataDriftProfileSection
 from evidently.dashboard import Dashboard
 from evidently.dashboard.tabs import DataDriftTab

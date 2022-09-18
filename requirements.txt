@@ -1,7 +1,11 @@
-numpy
-Flask
+flask
 gunicorn
-sklearn
+numpy
 pandas
+sklearn
 PyYAML
+evidently
+dill
+six
+matplotlib
 -e .

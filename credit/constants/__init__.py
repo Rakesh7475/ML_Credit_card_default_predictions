@@ -1,6 +1,6 @@
 # constants is hard coded 
 #All constants for the project are defined in this file
-from credit.util import get_current_timestamp
+from credit.util.util import get_current_timestamp
 import os
 
 LOG_DIR="logs"

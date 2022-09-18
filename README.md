@@ -1,4 +1,4 @@
-Application url: HousingPredictor
+Application url: credid_card_default_Predictor
 
 Start Machine Learning project.
 Software and account Requirement.
@@ -40,9 +40,9 @@ To check remote url
 git remote -v
 To setup CI/CD pipeline in heroku we need 3 information
 
-HEROKU_EMAIL = anishyadav7045075175@gmail.com
+HEROKU_EMAIL = rakeshpatil7475@gmail.com
 HEROKU_API_KEY = <>
-HEROKU_APP_NAME = ml-regression-app
+HEROKU_APP_NAME = credit-card-default-app1
 BUILD DOCKER IMAGE
 
 docker build -t <image_name>:<tagname> .
@@ -64,6 +64,9 @@ python setup.py install
 Install ipykernel
 
 pip install ipykernel
+or 
+conda install ipykernel
+
 Data Drift: When your datset stats gets change we call it as data drift
 
 Write a function to get training file path from artifact dir
@@ -72,8 +75,3 @@ Write a function to get training file path from artifact dir
 # ML_Credit_card_default_predictions
 Machine Learning Regression Project
 
-To setup CI/CD pipeline in heroku we need 3 information
-
-HEROKU_EMAIL = rakeshpatil7475@gmail.com
-HEROKU_API_KEY = <>
-HEROKU_APP_NAME = credit-card-default-app1
