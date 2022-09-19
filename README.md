@@ -1,4 +1,4 @@
-Application url: credid_card_default_Predictor
+Application url: credit_card_default_Predictor
 
 Start Machine Learning project.
 Software and account Requirement.
