@@ -4,7 +4,7 @@ training_pipeline_config:
   artifact_dir: artifact
 
 data_ingestion_config:
-  dataset_download_url: https://github.com/Rakesh7475/ML_Credit_card_default_predictions/blob/main/Data/archive.zip
+  dataset_download_url: https://raw.githubusercontent.com/Rakesh7475/ML_Credit_card_default_predictions/main/Data/archive.zip
   raw_data_dir: raw_data
   zip_download_dir: zip_data
   ingested_dir: ingested_data
