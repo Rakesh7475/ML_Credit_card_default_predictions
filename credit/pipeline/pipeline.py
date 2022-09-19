@@ -14,7 +14,7 @@ from credit.component.model_trainer import ModelTrainer
 from credit.component.model_evaluation import ModelEvaluation
 from credit.component.model_pusher import ModelPusher
 from credit.config.configuration import configuration
-from credit.util import get_current_timestamp
+from credit.util.util import get_current_timestamp
 from credit.constants import *
 
 

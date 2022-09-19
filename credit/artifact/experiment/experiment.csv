@@ -1,0 +1,3 @@
+experiment_id,Initialization_timestamp,artifact_time_stamp,running_status,start_time,stop_time,execution_time,message,experiment_file_path,accuracy,is_model_accepted
+73c30696-667d-4cf4-ab10-4490e58ab914,2022-09-19-22-00-58,2022-09-19-22-00-58,True,2022-09-19 22:00:58.842700,,,Pipeline has been started,D:\Internship_Project\ML_Credit_card_default_predictions\credit\artifact\experiment\experiment.csv,,
+73c30696-667d-4cf4-ab10-4490e58ab914,2022-09-19-22-00-58,2022-09-19-22-00-58,False,2022-09-19 22:00:58.842700,2022-09-19 22:01:52.835052,0 days 00:00:53.992352,Pipeline has been completed.,D:\Internship_Project\ML_Credit_card_default_predictions\credit\artifact\experiment\experiment.csv,0.8925833333333333,True

@@ -3,7 +3,7 @@ import logging
 from credit.constants import LOG_DIR
 import pandas as pd
 
-from credit.util import get_current_timestamp
+from credit.util.util import get_current_timestamp
 
 def log_filename()->str:
     "This function return name for the log file based oin current timestamp"

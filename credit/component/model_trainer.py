@@ -144,3 +144,13 @@ class ModelTrainer:
 
     def __del__(self):
         logging.info(f"{'>>' * 30}Model trainer log completed.{'<<' * 30} \n")
+
+
+        # loading transformed training and testing dataset
+        # reading model config file
+        # getting best model on training dataset
+        # evaluttion models on both training & testing dataset-->model object
+        # loading preprocessing object
+        # custom model object by combining both preprocessing object and model object
+        # saving custiom model objectt
+        # return model_trainer_artifact

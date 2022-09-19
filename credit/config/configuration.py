@@ -3,7 +3,7 @@ from credit.exception import CreditException
 from credit.entity.config_entity import DataIngestionConfig, DataValidationConfig, \
      DataTransformationConfig,ModelTrainerConfig,ModelEvaluationConfig,ModelPusherConfig,\
         TrainingPipelineConfig
-from credit.util import read_yaml_file
+from credit.util.util import read_yaml_file
 from credit.constants import *
 from credit.logger import logging
 from datetime import datetime
