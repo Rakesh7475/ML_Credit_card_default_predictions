@@ -1,4 +1,4 @@
-Application url: credit_card_default_Predictor
+Application url: https://credit-card-default-app1.herokuapp.com/
 
 Start Machine Learning project.
 Software and account Requirement.
